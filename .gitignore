@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.env
+.env.*
+01_source_code/data/
+01_source_code/client_data/
+01_source_code/server_data/
